@@ -106,7 +106,7 @@ Capitalization follows standard Latin conventions.
 | ط | ṭa | Φ | φ | U+03A6 / U+03C6 |
 | ظ | ẓa | Ψ | ψ | U+03A8 / U+03C8 |
 | ع | ʿayn | Ƹ | ƹ | U+01B8 / U+01B9 |
-| غ | ghayn | Γ | γ | U+0393 / U+03B3 |
+| غ | ghayn | Ɣ | ɣ | U+0393 / U+03B3 |
 | ف | fa | F | f | U+0046 / U+0066 |
 | ق | qaf | Q | q | U+0051 / U+0071 |
 | ك | kaf | K | k | U+004B / U+006B |
