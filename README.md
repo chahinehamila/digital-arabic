@@ -91,7 +91,7 @@ Capitalization follows standard Latin conventions.
 | ا | alif | A | a | U+0041 / U+0061 |
 | ب | ba | B | b | U+0042 / U+0062 |
 | ت | ta | T | t | U+0054 / U+0074 |
-| ث | tha | Þ | þ | U+00DE / U+00FE |
+| ث | tha | Θ | θ | U+00DE / U+00FE |
 | ج | jim | J | j | U+004A / U+006A |
 | ح | ḥa | Շ | շ | U+0547 / U+0577 |
 | خ | kha | X | x | U+0058 / U+0078 |
