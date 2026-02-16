@@ -102,9 +102,9 @@ Capitalization follows standard Latin conventions.
 | س | sin | S | s | U+0053 / U+0073 |
 | ش | shin | C | c | U+0043 / U+0063 |
 | ص | ṣad | Σ | σ | U+03A3 / U+03C3 |
-| ض | ḍad | Δ | δ | U+0394 / U+03B4 |
-| ط | ṭa | Φ | φ | U+03A6 / U+03C6 |
-| ظ | ẓa | Ψ | ψ | U+03A8 / U+03C8 |
+| ض | ḍad | Ṗ | ṗ | U+1E56 / U+1E57 |
+| ط | ṭa | Ъ | Ъ | U+042A / U+1C86 |
+| ظ | ẓa | Ḃ | ḃ | U+1E02 / U+1E03 |
 | ع | ʿayn | Ƹ | ƹ | U+01B8 / U+01B9 |
 | غ | ghayn | Ɣ | ɣ | U+0393 / U+03B3 |
 | ف | fa | F | f | U+0046 / U+0066 |
@@ -118,7 +118,7 @@ Capitalization follows standard Latin conventions.
 | ي | ya | Y | y | U+0059 / U+0079 |
 | ى | alif maqṣūra | A | a | U+0041 / U+0061 |
 | ء | hamza | Ɔ | ɔ | U+0186 / U+0254 |
-| ة | tāʾ marbūṭa | Þ | þ | U+00DE / U+00FE |
+| ة | tāʾ marbūṭa | T | t | U+0054 / U+0074 |
 | — | loanword P | P | p | U+0050 / U+0070 |
 | — | loanword G | G | g | U+0047 / U+0067 |
 | — | loanword V | V | v | U+0056 / U+0076 |
