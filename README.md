@@ -119,6 +119,7 @@ Capitalization follows standard Latin conventions.
 | ى | alif maqṣūra | A | a | U+0041 / U+0061 |
 | ء | hamza | Ɔ | ɔ | U+0186 / U+0254 |
 | ة | tāʾ marbūṭa | T | t | U+0054 / U+0074 |
+| آ | alif madda | Ɔa | ɔa | U+0186 U+0061 / U+0254 U+0061 |
 | — | loanword P | P | p | U+0050 / U+0070 |
 | — | loanword G | G | g | U+0047 / U+0067 |
 | — | loanword V | V | v | U+0056 / U+0076 |
@@ -136,7 +137,7 @@ Capitalization follows standard Latin conventions.
 
 ## 6. Tāʾ marbūṭa (ة)
 
-- Encoded as **þ / Þ**
+- Encoded as **T / t**
 - Orthographic marker, not phonetic
 - Preserves distinction from:
   - ت (t)
