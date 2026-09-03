@@ -103,7 +103,7 @@ Capitalization follows standard Latin conventions.
 | ش | shin | C | c | U+0043 / U+0063 |
 | ص | ṣad | Σ | σ | U+03A3 / U+03C3 |
 | ض | ḍad | Ṗ | ṗ | U+1E56 / U+1E57 |
-| ط | ṭa | Ъ | Ъ | U+042A / U+1C86 |
+| ط | ṭa | Φ | φ | U+03A6 / U+03C6 |
 | ظ | ẓa | Ḃ | ḃ | U+1E02 / U+1E03 |
 | ع | ʿayn | Ƹ | ƹ | U+01B8 / U+01B9 |
 | غ | ghayn | Ɣ | ɣ | U+0393 / U+03B3 |
